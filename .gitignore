@@ -12,3 +12,5 @@ _deps
 
 trunk/pkg/
 trunk/src/
+*.pkg.tar.zst
+*.run
